@@ -1,5 +1,8 @@
 # Matplotlib_test
 
+参考URL
+https://www.yutaka-note.com/entry/matplotlib_subplots
+
 ## グラフの種類と出力方法
 
 | グラフの種類  | 出力方法　　|
